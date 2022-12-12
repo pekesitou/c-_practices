@@ -4,7 +4,7 @@
     // double: Almacena números con decimales \\
     // char: Guarda solo un caracter. Por ej: char x = x \\
     // string: Almacena un texto \\
-    // bool: Variable booleana. Solo almacena true o false
+    // bool: Variable booleana. Solo almacena true o false \\
     
 
 
